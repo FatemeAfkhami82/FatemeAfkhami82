@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Fatemeh Afkhami! 👋
 
-<!--
-**FatemeAfkhami82/FatemeAfkhami82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc. Student in Electrical Engineering (Electronics)** at the **University of Tehran**.
+I am passionate about hardware design, embedded systems, and digital circuit simulation. I love turning concepts into practical hardware and diving deep into the world of electronics.
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tools:
+* **Circuit & PCB Design:** Altium Designer, Proteus
+* **Simulation & Analysis:** HSPICE, PSPICE, LTspice, Multisim, ModelSim, MATLAB & Simulink
+* **Programming & HDL:** C, C++, Python, Verilog
+* **Hardware:** Microcontroller Programming, Soldering, Electronic Board Assembly & Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect:
+* **Email:** [fateme1382afkhami@gmail.com]
+* **LinkedIn:** [https://www.linkedin.com/in/fateme-afkhami-8943ab418/?isSelfProfile=true]
